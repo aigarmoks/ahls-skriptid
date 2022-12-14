@@ -1,0 +1,4 @@
+a) seadista -määra kasutajanimi, email, editor
+git config --global user.name "Ees Perenimi"
+git config --global user.email kasutaja@nimi
+git config --global core.editor nano
